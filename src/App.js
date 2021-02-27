@@ -1,10 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
+import Header from './components/Header';
 
 function App() {
   return (
     <div className="app">
-     <h1>Test</h1>
+     <Header title="ello ello"/>
     </div>
   );
 }
